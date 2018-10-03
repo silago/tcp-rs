@@ -1,0 +1,10 @@
+[package]
+name = "tcp-socker-example"
+version = "0.1.0"
+authors = ["alexander.ovchinnikov <alexander.ovchinnikov@stark.games>"]
+
+[dependencies]
+
+[[bin]]
+name = "tcp-socker-example"
+path = "main.rs"
